@@ -1,7 +1,8 @@
 # Java-Collection-cheat-sheet
 
 #LinkedList.
-      LinkedList<Integer> linkedList = new LinkedList<>();
+      
+        LinkedList<Integer> linkedList = new LinkedList<>();
         
         linkedList.add(value); // O(1)
         linkedList.addFirst(value); // O(1)
